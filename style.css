@@ -9,12 +9,6 @@ h1 {
     color: black;
 }
 
-ul {
-    list-style-type: li::before;
-    list-style-type: none;
-}
-    
-
 .author {
     text-decoration: none;
     color: gray;

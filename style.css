@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    margin: 0 auto;
+    color: gray;
+}
+
+h1 {
+    font-weight: lighter;
+    color: black;
+}
+
+ul {
+    list-style-type: li::before;
+    list-style-type: none;
+}
+    
+
+.author {
+    text-decoration: none;
+    color: gray;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black; 
+    font-weight: bolder;
+}
+
+span {
+    color: black;
+    font-weight: bolder;
+
+}
+
+.line {
+    color: gray;
+    text-decoration: underline;
+    text-decoration-color: rgb(4, 180, 4);
+    
+   
+}
